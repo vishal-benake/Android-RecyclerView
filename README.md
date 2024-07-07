@@ -2,7 +2,7 @@
 
 This is the example of Android RecyclerView created using Android Studio Software.
 
-![Demo Image](./demo.jpeg)
+<img src="https://github.com/vishal-benake/Android-RecyclerView/blob/main/demo.jpeg" width="250" height="400">
 
 ## Software Used
 <a href="https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMIxezS47DqhgMVQ9MWBR1J5QE-EAAYASAAEgIgh_D_BwE&gclsrc=aw.ds">![AndroidStudio](https://img.shields.io/badge/-Android%20Studio-000000?style=for-the-badge&logo=AndroidStudio)</a>
